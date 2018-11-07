@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>hello-world</artifactId>
     <name>Hello World</name>
-    <version>1.0.3</version>
+    <version>1.0.5</version>
     <description>ADVault OAuth Models</description>
     <inceptionYear>2018</inceptionYear>
 
