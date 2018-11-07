@@ -1,3 +1,9 @@
 #!/bin/sh
 
-echo "hello"
+
+mvn clean install
+
+
+cp target/hello-world-*  /home/maxmdsys/tmp/.
+
+
